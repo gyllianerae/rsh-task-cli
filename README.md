@@ -1,8 +1,3 @@
-## Project URL
-
-https://github.com/gyllianerae/rsh-task-cli
-
-
 # 📝 Task Tracker CLI
 
 A simple **command-line Task Tracker** built with Python.
@@ -216,3 +211,8 @@ This project helps practice:
 ## 👨‍💻 Author
 
 Created as a learning project to understand **CLI applications and file handling in Python**.
+
+
+## Project Page
+
+https://roadmap.sh/projects/task-tracker
