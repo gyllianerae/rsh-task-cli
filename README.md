@@ -1,6 +1,6 @@
 ## Project URL
 
-https://github.com/your-username/task-tracker-cli
+https://github.com/gyllianerae/rsh-task-cli
 
 
 # 📝 Task Tracker CLI
